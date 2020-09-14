@@ -10,3 +10,6 @@ Steps to setup:
 5. Run script using command line: python auto.py
 
 Just wait and watch your bot acting like all human😍
+
+
+Note: Currently supports Windows only
